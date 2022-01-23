@@ -1,0 +1,15 @@
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\cursos Developer\DIO\Avanade\Dio-Avanade\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
